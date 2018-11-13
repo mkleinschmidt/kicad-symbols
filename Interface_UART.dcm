@@ -345,6 +345,12 @@ K ACIA
 F http://pdf.datasheetcatalog.com/datasheet/motorola/MC6850.pdf
 $ENDCMP
 #
+$CMP SN65HVD22
+D Half duplex RS-485, 500 kbps, ±16kV electro-static discharge (ESD) protection, with receiver/driver enable, reduced unit load, up to 256 nodes, DIP-8 and SOIC-8
+K Half duplex RS-485, 500 kbps, ±16kV electro-static discharge (ESD) protection, controlled driver output slew rate, with receiver/driver enable, reduced unit load, up to 256 nodes, DIP-8 and SOIC-8
+F http://www.ti.com/lit/gpn/sn65hvd22
+$ENDCMP
+#
 $CMP SN65LBC176D
 D Differential bus transiver, SOIC-8
 K Differential bus transiver
