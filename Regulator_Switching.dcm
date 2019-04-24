@@ -3390,12 +3390,6 @@ K Murata isolated isolation dc-dc converter
 F http://power.murata.com/data/power/ncl/kdc_nma.pdf
 $ENDCMP
 #
-$CMP NTE0305MC
-D 200mA Regulated 1W DC/DC converter with 1.5kV isolation, 2.97V-3.63V input, 5V fixed Output Voltage, SMD
-K muRata isolated isolation dc-dc converter transformer
-F https://power.murata.com/data/power/ncl/kdc_nte.pdf
-$ENDCMP
-#
 $CMP NXE2S0505MC
 D 5V to 5V 400mA DC-DC Converter with 3kV isolation
 K isolated isolation dc-dc converter transformer
